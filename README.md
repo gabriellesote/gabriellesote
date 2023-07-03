@@ -4,7 +4,7 @@
 
 # :spider_web: Sites
 
-Currently, I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.com/" target="_blank"> CursoemVideo:link: </a>, with the guidance of Professor Guanabara.
+Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.com/" target="_blank"> CursoemVideo:link: </a>, with the guidance of Professor Guanabara.
 
 ## :art: Projects
 
