@@ -8,9 +8,9 @@ Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.c
 
 ## :art: Projects
 
-- :robot: <a href="https://gabriellesote.github.io/projeto-android/" target="_blank">Android</a> 
+- :robot: <a href="https://gabriellesote.github.io/mini-projeto-android/" target="_blank">Android</a> 
 
-- :black_nib: <a href="https://gabriellesote.github.io/projeto-cordel/" target="_blank">Modern Cordel</a> 
+- :black_nib: <a href="https://gabriellesote.github.io/mini-projeto-cordel/" target="_blank">Modern Cordel</a> 
 <!---
 gabriellesote/gabriellesote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
