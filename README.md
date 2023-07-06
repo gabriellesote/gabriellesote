@@ -10,7 +10,8 @@ Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.c
 
 - :robot: <a href="https://gabriellesote.github.io/mini-projeto-android/" target="_blank">Android</a> 
 
-- :black_nib: <a href="https://gabriellesote.github.io/mini-projeto-cordel/" target="_blank">Modern Cordel</a> 
+- :black_nib: <a href="https://gabriellesote.github.io/mini-projeto-cordel/" target="_blank">Modern Cordel</a>
+- :umbrella: <a href="https://gabriellesote.github.io/weather-project/" target="_blank"> Weather Report</a>
 <!---
 gabriellesote/gabriellesote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
