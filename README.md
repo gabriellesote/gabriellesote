@@ -16,7 +16,7 @@ Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.c
 <div align="center"><h2>👾GitHub Stats👾</h2></div>
 
 
-<div align=left>
+<div align=center>
 
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=gabriellesote&theme=aura&border_radius=4" />
