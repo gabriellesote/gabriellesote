@@ -16,10 +16,15 @@ Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.c
 <div align="center"><h2>👾GitHub Stats👾</h2></div>
 
 
-<div align=center>
+<div align=left>
 
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellesote&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a>
- 
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=gabriellesote&theme=aura&border_radius=4" />
+</a>
+<a href="https://github.com/gabriellesote/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellesote&layout=compact&langs_count=8&card_width=320&theme=aura" />
+</a>
+
  </div>
 
  
