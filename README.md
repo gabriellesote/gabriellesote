@@ -19,10 +19,10 @@ Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.c
 <div align=center>
 
 <a href="https://git.io/streak-stats">
-  <img height=100 align="center" src="https://streak-stats.demolab.com?user=gabriellesote&theme=aura&border_radius=4" />
+  <img height=150 align="center" src="https://streak-stats.demolab.com?user=gabriellesote&theme=aura&border_radius=4" />
 </a>
 <a href="https://github.com/gabriellesote/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellesote&layout=compact&langs_count=8&card_width=320&theme=aura" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellesote&layout=compact&langs_count=8&card_width=320&theme=aura" />
 </a>
 
  </div>
