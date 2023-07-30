@@ -18,7 +18,7 @@ Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.c
 
 <div align=center>
 
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellesote&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a>
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellesote&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a>
  
  </div>
 
