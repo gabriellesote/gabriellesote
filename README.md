@@ -12,6 +12,29 @@ Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.c
 - :umbrella: <a href="https://gabriellesote.github.io/weather-project/" target="_blank"> Weather Report</a>
 - ✉ <a href="https://gabriellesote.github.io/mini-project-login/" target="_blank">Login </a>
 
+
+<div align="center"><h2>👾GitHub Stats👾</h2></div>
+
+
+<div align=center>
+
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellesote&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a>
+ 
+ </div>
+
+ 
+ 
+ 
+ <div align="center"><h2>⭐ Thaaaanks! ⭐</h2></div>
+ 
+
+ 
+  <img align='left' src="https://i.imgur.com/j3G3Y1U.gif" width='300'>
+  <img align='right' src="https://github.com/Baralou/Baralou/blob/main/ezgif.com-gif-maker.gif" width='400'>
+ 
+ 
+
+
 <!---
 gabriellesote/gabriellesote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
