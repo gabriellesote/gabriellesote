@@ -6,14 +6,27 @@ Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.c
 
 ## :art: Projects
 
-- :robot: <a href="https://gabriellesote.github.io/mini-projeto-android/" target="_blank">Android</a> 
-
-- :black_nib: <a href="https://gabriellesote.github.io/mini-projeto-cordel/" target="_blank">Modern Cordel</a>
-- :umbrella: <a href="https://gabriellesote.github.io/weather-project/" target="_blank"> Weather Report</a>
-- 🌞 <a href="https://gabriellesote.github.io/mini-project-login/" target="_blank">Login Bright </a>
-- 🌚 <a href="https://gabriellesote.github.io/projeto-login_dark/" target="_blank">Login Dark </a>
 
 
+<p align="center">
+  
+
+   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;
+   
+  <a href="https://gabriellesote.github.io/mini-projeto-android/"> :robot: Android</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://gabriellesote.github.io/mini-projeto-cordel/"> :black_nib:  Modern Cordel</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://gabriellesote.github.io/mini-project-login/"> 🌻 Sunflower Login</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://gabriellesote.github.io/weather-project/"> :umbrella:Weather Report</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://gabriellesote.github.io/projeto-login_dark/"> 🐱Cat Login</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://gabriellesote.github.io/projeto-discover/"> 🌞Discover Project 🌚</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;
+
+</p>
 
 
 <div align="center"><h2>👾GitHub Stats👾</h2></div>
