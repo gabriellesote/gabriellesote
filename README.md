@@ -18,8 +18,8 @@ Currently I'm studying HTML and CSS through  <a href="https://www.cursoemvideo.c
   <a href="https://gabriellesote.github.io/mini-projeto-android/"> :robot: Android</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://gabriellesote.github.io/mini-projeto-cordel/"> :black_nib:  Modern Cordel</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://gabriellesote.github.io/mini-project-login/"> 🌻 Sunflower Login</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://gabriellesote.github.io/weather-project/"> :umbrella:Weather Report</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://gabriellesote.github.io/projeto-login_dark/"> 🐱Cat Login</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://gabriellesote.github.io/weather-project/"> :umbrella: Weather Report</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://gabriellesote.github.io/projeto-login_dark/"> 🐱 Cat Login</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="https://gabriellesote.github.io/projeto-discover/"> 🌞Discover Project 🌚</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
    &nbsp;&nbsp;&nbsp;
