@@ -1,6 +1,42 @@
 
 <img src="https://github.com/gabriellesote/gabriellesote/blob/main/banner-image/github%20profile.png"> 
 
+### Olá, sou Gabrielle Soares, mas pode me chamar de Gabi! 👋
+
+🎓 Atualmente cursando o 3° Semestre de Ciência da Computação e tive a honra de ser representante de turma neste semestre.
+
+#### Principais Habilidades:
+- Java POO
+- Python
+- HTML
+- CSS
+
+#### Tecnologias que domino:
+- Canva
+- Photoshop
+- VsCode
+- Blender
+- Notion
+- ChatGPT
+- Sony Vegas
+- Pacote Office
+
+#### Interesses Pessoais:
+- 📚 Amo livros de filosofia, expandindo minha mente além do mundo da programação.
+- 🎶 Nos meus momentos de lazer, estou aprendendo a tocar Ukulele, explorando novas melodias.
+- 🌐 Também embarquei em um estudo da linguagem russa, desafiando-me a compreender e apreciar uma cultura diferente.
+
+### Contato
+
+- 📧 Email: [Seu Email]
+- 💼 LinkedIn: [Seu Perfil no LinkedIn]
+- 🐦 Twitter: [Seu Perfil no Twitter]
+
+Vamos criar algo extraordinário juntos! 😊
+
+
+
+
 ### Redes
 
 [![Artístico](https://img.shields.io/badge/Artístico-833AB4?style=for-the-badge&logo=instagram)](https://www.instagram.com/ga_baralou/)
