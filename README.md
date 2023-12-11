@@ -1,17 +1,11 @@
-
 <img src="https://github.com/gabriellesote/gabriellesote/blob/main/banner-image/github%20profile.png"> 
 
 # Olá, sou a Gabi! 👋
 
 🎓 Atualmente cursando o 3° Semestre de Ciência da Computação e tive a honra de ser representante de turma neste semestre. 
 
-#### Principais Habilidades:
-- Java POO
-- Python
-- HTML
-- CSS
 
-#### Tecnologias que já utilizei:
+### Tecnologias que já utilizei:
 
 
 <p align="center">
@@ -20,7 +14,7 @@
   </a>
 </p>
 
-#### Interesses Pessoais:
+### Interesses Pessoais:
 - 📚 Amo livros de filosofia, expandindo minha mente além do mundo da programação.
 - 🎶 Nos meus momentos de lazer, estou aprendendo a tocar Ukulele, explorando novas melodias.
 - 🌐 Também embarquei em um estudo da linguagem russa, desafiando-me a compreender e apreciar uma cultura diferente.
