@@ -11,17 +11,14 @@
 - HTML
 - CSS
 
-#### Tecnologias que domino:
+#### Tecnologias que já utilizei:
 
-[![canva](https://img.shields.io/badge/canva-F2F1EB?style=for-the-badge&logo=canva)](https://)
-![photoshop](https://img.shields.io/badge/photoshop-blue?style=for-the-badge&logo=adobephotoshop)
 
-- VsCode
-- Blender
-- Notion
-- ChatGPT
-- Sony Vegas
-- Pacote Office
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,blender,docker,c,vim" />
+  </a>
+</p>
 
 #### Interesses Pessoais:
 - 📚 Amo livros de filosofia, expandindo minha mente além do mundo da programação.
@@ -30,20 +27,17 @@
 
 ### Contato
 
-- 📧 Email: [Seu Email]
-- 💼 LinkedIn: [Seu Perfil no LinkedIn]
-- 🐦 Twitter: [Seu Perfil no Twitter]
+[![Artístico](https://img.shields.io/badge/Artístico-833AB4?style=for-the-badge&logo=instagram)](https://www.instagram.com/ga_baralou/)
+[![pessoal](https://img.shields.io/badge/pessoal-5B51D8?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabi.sote/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielle-teixeira-a9624329a/)
+
+
+![gabriell.sote@gmail.com ](https://img.shields.io/badge/gabriell.sote%40gmail.com_-black?style=for-the-badge&logo=gmail)
 
 Vamos criar algo extraordinário juntos! 😊
 
 
 
-
-### Redes
-
-[![Artístico](https://img.shields.io/badge/Artístico-833AB4?style=for-the-badge&logo=instagram)](https://www.instagram.com/ga_baralou/)
-[![pessoal](https://img.shields.io/badge/pessoal-5B51D8?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabi.sote/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielle-teixeira-a9624329a/)
 
 
 
