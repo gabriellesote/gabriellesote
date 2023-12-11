@@ -12,8 +12,10 @@
 - CSS
 
 #### Tecnologias que domino:
-- Canva
-- Photoshop
+
+[![canva](https://img.shields.io/badge/canva-F2F1EB?style=for-the-badge&logo=canva)](https://)
+![photoshop](https://img.shields.io/badge/photoshop-blue?style=for-the-badge&logo=adobephotoshop)
+
 - VsCode
 - Blender
 - Notion
