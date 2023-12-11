@@ -1,9 +1,9 @@
 
 <img src="https://github.com/gabriellesote/gabriellesote/blob/main/banner-image/github%20profile.png"> 
 
-### Olá, sou Gabrielle Soares, mas pode me chamar de Gabi! 👋
+# Olá, sou a Gabi! 👋
 
-🎓 Atualmente cursando o 3° Semestre de Ciência da Computação e tive a honra de ser representante de turma neste semestre.
+🎓 Atualmente cursando o 3° Semestre de Ciência da Computação e tive a honra de ser representante de turma neste semestre. 
 
 #### Principais Habilidades:
 - Java POO
