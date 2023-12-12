@@ -1,4 +1,4 @@
-<img src="https://github.com/gabriellesote/gabriellesote/blob/main/banner-image/github%20profile.png"> 
+<img src="https://github.com/gabriellesote/gabriellesote/blob/main/banner-image/github%20profile2%5D.png"> 
 
 # Olá, sou a Gabi! 👋
 
