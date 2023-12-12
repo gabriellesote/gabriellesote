@@ -5,14 +5,9 @@
 🎓 Atualmente cursando o 3° Semestre de Ciência da Computação e tive a honra de ser representante de turma neste semestre. 
 
 
-### Tecnologias que já utilizei:
+### Tecnologias que mais gosto:
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,blender,docker,c,vim" />
-  </a>
-</p>
 
 ### Interesses Pessoais:
 - 📚 Amo livros de filosofia, expandindo minha mente além do mundo da programação.
