@@ -21,7 +21,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielle-teixeira-a9624329a/)
 
 
-![gabrielle.sote@gmail.com ](https://img.shields.io/badge/gabrielle.sote%40gmail.com_-black?style=for-the-badge&logo=gmail)
+![gabrielle.sote@gmail.com](https://img.shields.io/badge/gabrielle.sote%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=red)
 
 Vamos criar algo extraordinário juntos! 😊
 
