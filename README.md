@@ -2,11 +2,7 @@
 
 # Olá, sou a Gabi! 👋
 
-🎓 Atualmente cursando o 3° Semestre de Ciência da Computação e tive a honra de ser representante de turma neste semestre. 
-
-
-### Tecnologias que mais gosto:
-
+Durante minhas férias acadêmicas, dedicarei meu tempo ao aprimoramento dos meus estudos em Java, visando compreender a lógica de programação por meio dessa linguagem. Para alcançar esse objetivo, escolhi o curso ministrado pelo professor Nelio Alves na plataforma Udemy como meu guia de aprendizado. Planejo atingir o nível júnior em Java durante esse período e, posteriormente, aprofundar-me ainda mais na linguagem.
 
 
 ### Interesses Pessoais:
