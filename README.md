@@ -8,7 +8,6 @@ Durante minhas férias acadêmicas, dedicarei meu tempo ao aprimoramento dos meu
 ### Interesses Pessoais:
 - 📚 Amo livros de filosofia, expandindo minha mente além do mundo da programação.
 - 🎶 Nos meus momentos de lazer, estou aprendendo a tocar Ukulele, explorando novas melodias.
-- 🌐 Também embarquei em um estudo da linguagem russa, desafiando-me a compreender e apreciar uma cultura diferente.
 
 ### Contato
 
