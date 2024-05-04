@@ -4,6 +4,11 @@
 
 Durante minhas férias acadêmicas, dedicarei meu tempo ao aprimoramento dos meus estudos em Java, visando compreender a lógica de programação por meio dessa linguagem. Para alcançar esse objetivo, escolhi o curso ministrado pelo professor Nelio Alves na plataforma Udemy como meu guia de aprendizado. Planejo atingir o nível júnior em Java durante esse período e, posteriormente, aprofundar-me ainda mais na linguagem.
 
+## Destaques
+
+[![organização - 4° Semestre](https://img.shields.io/badge/organização-4°_Semestre-important?style=for-the-badge&logo=github)](https://github.com/S4-2024)
+[![organização - A3 2023](https://img.shields.io/badge/organização-A3_2023-green?style=for-the-badge&logo=github)](https://github.com/A3-2023)
+[![organização - A3 2022](https://img.shields.io/badge/organização-A3_2022-yellow?style=for-the-badge&logo=github)](https://github.com/Calvao-Bueno)
 
 ### Interesses Pessoais:
 - 📚 Amo livros de filosofia, expandindo minha mente além do mundo da programação.
@@ -19,7 +24,6 @@ Durante minhas férias acadêmicas, dedicarei meu tempo ao aprimoramento dos meu
 ![gabrielle.sote@gmail.com](https://img.shields.io/badge/gabrielle.sote%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=red)
 
 Vamos criar algo extraordinário juntos! 😊
-
 
 
 
