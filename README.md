@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/gabriellesote/gabriellesote/main/banner-image/clean.png"> 
-
-# Olá, sou a Gabi! 👋
-
-Durante minhas férias acadêmicas, dedicarei meu tempo ao aprimoramento dos meus estudos em Java, visando compreender a lógica de programação por meio dessa linguagem. Para alcançar esse objetivo, escolhi o curso ministrado pelo professor Nelio Alves na plataforma Udemy como meu guia de aprendizado. Planejo atingir o nível júnior em Java durante esse período e, posteriormente, aprofundar-me ainda mais na linguagem.
-
+ 
+🌷🌹🌸🌼🌻🌺🌷🌹🌸🌼🌻🌺🌷🌹🌸🌼🌻🌺🌷🌹🌸🌼🌻🌺🌷🌹🌸🌼🌻🌺🌷🌹🌸🌼🌻🌺🌷🌹 
+                          
 ## Destaques
 
 [![organização - 4° Semestre](https://img.shields.io/badge/organização-4°_Semestre-important?style=for-the-badge&logo=github)](https://github.com/S4-2024)
@@ -26,7 +24,7 @@ Durante minhas férias acadêmicas, dedicarei meu tempo ao aprimoramento dos meu
 Vamos criar algo extraordinário juntos! 😊
 
 
-
+```  ✯¸.•´*¨`*•✿ ✿•*`¨*`•.¸✯ ```
 
 
 <!---
