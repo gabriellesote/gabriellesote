@@ -1,5 +1,10 @@
  <img src="https://github.com/gabriellesote/gabriellesote/blob/main/banner-image/banners%20(1).png">
 
+ <div align=center> 
+
+ [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fgabriellesote&label=visitors%20(today%2Ftotal)&labelColor=%23ffa6ce&countColor=%23ffffff)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgabriellesote)
+ </div>
+ 
 <h1> Olá, meu nome é Gabrielle  ^^ </h1>
 
  <p> 
@@ -78,6 +83,8 @@ Seja bem-vindo(a) ao meu perfil! Sobre mim:
 
  <div align="center" >
   <a href="https://github.com/gabriellesote">
+
+  
    
 ![gabriellesote's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabriellesote&theme=dracula&hide_border=true&layout=compact)
 </div>
