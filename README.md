@@ -10,11 +10,9 @@
  <p> 
 Seja bem-vindo(a) ao meu perfil! Sobre mim: 
   
- 🏫  Estudo na UNA Contagem e  estou no 5° Semestre em Ciência da Computação.
+ 🏫  Estudo na UNA Contagem e  estou no 6° Semestre em Ciência da Computação.
   
  ❤️ Sou apaixonada por tecnologia e adoro aprender cada vez mais sobre o assunto. 
-  
- 🧠 Atualmente participando do bootcamp  [XP Inc. - Full Stack Developer](https://web.dio.me/track/coding-the-future-xp-full-stack-developer) <br> 
   
   
   Estou sempre em busca de aprender novas habilidades e aperfeiçoar meus conhecimentos (❁´◡`❁)
