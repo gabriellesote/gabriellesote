@@ -22,6 +22,8 @@ Seja bem-vindo(a) ao meu perfil! Sobre mim:
 
 <p> Projetos desenvolvidos durante minha graduação </p>
 
+[![organização - 6° Semestre](https://img.shields.io/badge/organização-6°_Semestre-yellow?style=for-the-badge&logo=github)](https://github.com/S6-2025)
+[![organização - 5° Semestre](https://img.shields.io/badge/organização-5°_Semestre-green?style=for-the-badge&logo=github)](https://github.com/S5-2024)
 [![organização - 4° Semestre](https://img.shields.io/badge/organização-4°_Semestre-pink?style=for-the-badge&logo=github)](https://github.com/S4-2024)
 [![organização - A3 2023](https://img.shields.io/badge/organização-3°_Semestre-purple?style=for-the-badge&logo=github)](https://github.com/A3-2023)
 [![organização - A3 2022](https://img.shields.io/badge/organização-1°_Semestre-blue?style=for-the-badge&logo=github)](https://github.com/Calvao-Bueno)
