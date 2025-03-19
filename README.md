@@ -5,7 +5,7 @@
  [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fgabriellesote&label=visitors%20(today%2Ftotal)&labelColor=%23ffa6ce&countColor=%23ffffff)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgabriellesote)
  </div>
  
-<h1> Olá, meu nome é Gabrielle  ^^ </h1>
+<h1> Olá, meu nome é Gabrielle  😊 </h1>
 
  <p> 
 Seja bem-vindo(a) ao meu perfil! Sobre mim: 
