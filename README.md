@@ -18,10 +18,43 @@ Seja bem-vindo(a) ao meu perfil! Sobre mim:
   Estou sempre em busca de aprender novas habilidades e aperfeiçoar meus conhecimentos (❁´◡`❁)
  </p>
 
- ## 🎓 Faculdade 
 
-<p> Projetos desenvolvidos durante minha graduação </p>
+ ## 🤓 Em progresso 
+<h3>Tecnologias que estou em processo de estudo </h3>
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+ <h3>Projetos em desenvolvimento</h3>
+
+<p> Atualmente estou trabalho no Finis, uma aplicação para controle finaceiro.
+Como pretendo fazer essa aplicação para aplicar o que estou aprendendo na faculdade, será um processo demorado, pois iriei estruturar todo o projeto primeiro antes mesmo de codar. 
+</p>
+
+[![  - Finis](https://img.shields.io/badge/_-Finis-blue?style=for-the-badge&logo=github)](https://github.com/gabriellesote/Finis)
+
+
+
+ ## 📌 Projetos
+
+<h3> Front-End</h3>
+
+[![  - Nutrifacil](https://img.shields.io/badge/_-Nutrifacil-2ea44f?style=for-the-badge&logo=github)](https://github.com/S6-2025/NutriFacil)
+[![  - ToTask](https://img.shields.io/badge/_-ToTask-blue?style=for-the-badge&logo=github)](https://github.com/S6-2025/to-do-list)
+
+<h3> Back-End </h3>
+
+[![  - api gatinhos](https://img.shields.io/badge/_-api_gatinhos-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gabriellesote/cats)
+
+<h3> Full-Stack</h3>
+
+[![  - notas](https://img.shields.io/badge/_-notas-blueviolet?style=for-the-badge&logo=github)](https://github.com/gabriellesote/notas)
+
+
+
+<h2> 🤓 Organizações de Semestres </h2>
+
+[![organização - 6° Semestre](https://img.shields.io/badge/organização-6°_Semestre-yellow?style=for-the-badge&logo=github)](https://github.com/S6-2025)
 [![organização - 5° Semestre](https://img.shields.io/badge/organização-5°_Semestre-green?style=for-the-badge&logo=github)](https://github.com/S5-2024)
 [![organização - 4° Semestre](https://img.shields.io/badge/organização-4°_Semestre-pink?style=for-the-badge&logo=github)](https://github.com/S4-2024)
 [![organização - A3 2023](https://img.shields.io/badge/organização-3°_Semestre-purple?style=for-the-badge&logo=github)](https://github.com/A3-2023)
@@ -48,15 +81,6 @@ Seja bem-vindo(a) ao meu perfil! Sobre mim:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
-## 🤓 Em progresso 
-<h3>Tecnologias que estou em processo de estudo </h3>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
- <h3>Projetos em desenvolvimento</h3>
-
-[![organização - 6° Semestre](https://img.shields.io/badge/organização-6°_Semestre-yellow?style=for-the-badge&logo=github)](https://github.com/S6-2025)
 
 
 
