@@ -22,8 +22,7 @@ Seja bem-vindo(a) ao meu perfil! Sobre mim:
  ## 🤓 Em progresso 
 <h3>Tecnologias que estou em processo de estudo </h3>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
  <h3>Projetos em desenvolvimento</h3>
 
