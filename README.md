@@ -38,14 +38,19 @@ Como pretendo fazer essa aplicação para aplicar o que estou aprendendo na facu
 
 <h3> Front-End</h3>
 
+<p> Atuei no Front utilizando React no desenvolvimento.</p>
+
 [![  - Nutrifacil](https://img.shields.io/badge/_-Nutrifacil-2ea44f?style=for-the-badge&logo=github)](https://github.com/S6-2025/NutriFacil)
 [![  - ToTask](https://img.shields.io/badge/_-ToTask-blue?style=for-the-badge&logo=github)](https://github.com/S6-2025/to-do-list)
 
 <h3> Back-End </h3>
+<p> Atuei no Back utilizando NodeJS no desenvolvimento da API. </p>
 
 [![  - api gatinhos](https://img.shields.io/badge/_-api_gatinhos-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gabriellesote/cats)
 
 <h3> Full-Stack</h3>
+
+<p> Atuei no Back utilizando NodeJS no desenvolvimento da API e no Front desenvolvido com React. </p>
 
 [![  - notas](https://img.shields.io/badge/_-notas-blueviolet?style=for-the-badge&logo=github)](https://github.com/gabriellesote/notas)
 
