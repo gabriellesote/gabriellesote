@@ -24,13 +24,14 @@ Seja bem-vindo(a) ao meu perfil! Sobre mim:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
- <h3>Projetos em desenvolvimento</h3>
 
+
+<!-- 
+ <h3>Projetos em desenvolvimento</h3>
 <p> Atualmente estou trabalho no Finis, uma aplicação para controle finaceiro.
 Como pretendo fazer essa aplicação para aplicar o que estou aprendendo na faculdade, será um processo demorado, pois iriei estruturar todo o projeto primeiro antes mesmo de codar. 
-</p>
+</p> -->
 
-[![  - Finis](https://img.shields.io/badge/_-Finis-blue?style=for-the-badge&logo=github)](https://github.com/gabriellesote/Finis)
 
 
 
