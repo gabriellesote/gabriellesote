@@ -10,7 +10,7 @@
  <p> 
 Seja bem-vindo(a) ao meu perfil! Sobre mim: 
   
- 🏫  Estudo na UNA Contagem e  estou no 6° Semestre em Ciência da Computação.
+ 🏫  Estudo na UNA Contagem e  estou no 8° Semestre em Ciência da Computação.
   
  ❤️ Sou apaixonada por tecnologia e adoro aprender cada vez mais sobre o assunto. 
   
